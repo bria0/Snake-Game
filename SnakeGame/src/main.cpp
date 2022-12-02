@@ -10,6 +10,7 @@
  *              Once users fail (run into a border or the snake itself), end screen will await users
  *              to restart the game using SPACE key.
  */
+
 #include <GL/glut.h>
 #include <iostream>
 #include <fstream>
