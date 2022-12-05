@@ -2,7 +2,6 @@
  * gameover.hpp
  *
  * Authors: Scoban Pham (170944430), Brianna Nguyen (180856030)
- * Date: December 7th, 2021
  */
 
 #ifndef GAMEOVER_H_
