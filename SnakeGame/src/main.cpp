@@ -2,7 +2,6 @@
  * CP411 Project: Snake Game
  *
  * Authors: Scoban Pham (170944430), Brianna Nguyen (180856030)
- * Date: December 7th, 2021
  *
  * Description: main.cpp is the main file is a game of 2D snake that keeps track of the final score.
  *              This integrates gameStart.cpp, gameOver.cpp, and game.cpp into a executable game.
