@@ -2,7 +2,6 @@
  * gameOver.cpp
  *
  * Authors: Scoban Pham (170944430), Brianna Nguyen (180856030)
- * Date: December 7th, 2021
  * Description: gameOver is the ending screen for Snake Game, displays final score that users
  *              achieved in the current run.
  */
