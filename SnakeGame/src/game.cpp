@@ -2,7 +2,6 @@
  * game.cpp
  *
  * Authors: Scoban Pham (170944430), Brianna Nguyen (180856030)
- * Date: December 7th, 2021
  *
  * Description: game file is home to the drawings, this includes the grid, snake, and food
  */
